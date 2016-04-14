@@ -1,7 +1,7 @@
 name: 'Mind Your Drone Business!'
 favicon: null
-layout_spectrum: 0.1953191130887717
-typography_spectrum: 0.6232514239381999
+layout_spectrum: 0.7626
+typography_spectrum: 0.35202
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.16539749898947775
-  lightness: 0.1534315946046263
-  saturation: 0.3365570451132953
-  rhythmicContrast: 0.9999741159845144
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
