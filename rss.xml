@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mind Your Drone Business!]]></title>
+        <description><![CDATA[Mind Your Drone Business!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Apr 2016 07:50:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drone racing is coming to ESPN]]></title>
+            <description><![CDATA[<article><h1>Drone racing is coming to ESPN</h1><p>Drones have officially become mainstream. The International Drone Racing Association said on Wednesday that it had signed a multi-year deal with ESPN to bring the new sport of drone racing to the sports network. "We look forward to providing drone racing fans a larger platform to access this exciting world," Matthew Volk, director of programming and acquisitions for ESPN, said in a statement.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fac34e7d2db6b7c0a21fa4a5840898f878a38d0a.jpg"></article>]]></description>
+            <link>http://www.cnbc.com/2016/04/13/espn-to-broadcast-drone-racing.html</link>
+            <guid isPermaLink="false">d54aaf7f-7ef5-41a3-93df-e8e9a772ec8c</guid>
+            <pubDate>Thu, 14 Apr 2016 07:50:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
