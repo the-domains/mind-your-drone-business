@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Mind Your Drone Business!]]></title>
         <description><![CDATA[Mind Your Drone Business!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mind-your-drone-business/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 07:50:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 07:51:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mind-your-drone-business/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://static.standard.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2016/04/13/14/droneman1_0.jpg">]]></description>
+            <link>https://thegrid.ai/mind-your-drone-business/7534b935-79e0-4685-81d5-b9b938494281/index.html</link>
+            <guid isPermaLink="false">7534b935-79e0-4685-81d5-b9b938494281</guid>
+            <pubDate>Thu, 14 Apr 2016 07:51:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Drone racing is coming to ESPN]]></title>
             <description><![CDATA[<article><h1>Drone racing is coming to ESPN</h1><p>Drones have officially become mainstream. The International Drone Racing Association said on Wednesday that it had signed a multi-year deal with ESPN to bring the new sport of drone racing to the sports network. "We look forward to providing drone racing fans a larger platform to access this exciting world," Matthew Volk, director of programming and acquisitions for ESPN, said in a statement.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fac34e7d2db6b7c0a21fa4a5840898f878a38d0a.jpg"></article>]]></description>
