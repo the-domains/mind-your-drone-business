@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://www.cnbc.com'
   name: CNBC
-  favicon: 'http://www.cnbc.com/favicon.ico'
   domain: www.cnbc.com
+  url: 'http://www.cnbc.com'
+  favicon: 'http://www.cnbc.com/favicon.ico'
 keywords:
   - drone
   - race
@@ -29,13 +29,15 @@ app_links:
     app_store_id: '398018310'
 isBasedOnUrl: 'http://www.cnbc.com/2016/04/13/espn-to-broadcast-drone-racing.html'
 title: Drone racing is coming to ESPN
-datePublished: '2016-04-14T07:50:52.114Z'
-dateModified: '2016-04-14T07:33:46.703Z'
+datePublished: '2016-04-22T10:46:30.965Z'
+dateModified: '2016-04-20T10:36:39.242Z'
 sourcePath: _posts/2016-04-14-drone-racing-is-coming-to-espn.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
