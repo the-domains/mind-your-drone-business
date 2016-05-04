@@ -4,7 +4,7 @@
         <description><![CDATA[Mind Your Drone Business!]]></description>
         <link>https://thegrid.ai/mind-your-drone-business/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 08:01:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 12:47:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mind-your-drone-business/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Drone racing is coming to ESPN]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 22 Apr 2016 10:46:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[New Drone Advocacy Group Launches With Cisco and CNN as Members]]></title>
+            <description><![CDATA[<article><h1>New Drone Advocacy Group Launches With Cisco and CNN as Members</h1><p>There's a new drone advocacy group in Washington, D.C. and Silicon Valley. The Commercial Drone Alliance took off on Tuesday with founding board members including the likes of networking giant Cisco, a drone-centric data crunching startup called Data Wing, and drone startup Measure.</p><img src="https://fortunedotcom.files.wordpress.com/2015/12/drone.jpg?w=1024"></article>]]></description>
+            <link>http://fortune.com/2016/05/03/commercial-drone-alliance-cisco-cnn/</link>
+            <guid isPermaLink="false">f967e049-f0ed-4924-b0d2-da1addb72024</guid>
+            <pubDate>Wed, 04 May 2016 12:47:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Watch drones perform 'ballet' with 16,500 LEDs in front of Mount Fuji]]></title>
-            <description><![CDATA[<article><h1>Watch drones perform 'ballet' with 16,500 LEDs in front of Mount Fuji</h1><p>The coolest thing you'll see all day. Drone ballet in front of Mount Fuji. </p><img src="https://cdn3.vox-cdn.com/thumbor/qww5c5kQyaLemUSrMANF_v1y_p0=/0x0:956x538/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/49457497/fuji-drone.0.0.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Watch drones perform 'ballet' with 16,500 LEDs in front of Mount Fuji</h1><p>The coolest thing you'll see all day. Drone ballet in front of Mount Fuji. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e95368fbe2fd01d02f7af0054ba06659b9f28e4.png"></article>]]></description>
             <link>http://www.theverge.com/2016/5/1/11554648/drone-ballet-fuji-japan-sky-magic</link>
             <guid isPermaLink="false">623bd034-4b4e-4625-b7b4-12994d732b6e</guid>
             <pubDate>Mon, 02 May 2016 08:00:22 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://motherboard.vice.com/read/drone-vs-pork</link>
             <guid isPermaLink="false">2bfccf31-6eb2-4253-9f5d-4f277e3b0c06</guid>
             <pubDate>Wed, 20 Apr 2016 15:22:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A small forest tribe built a DIY drone to stop loggers]]></title>
-            <description><![CDATA[<article><h1>A small forest tribe built a DIY drone to stop loggers</h1><p>For years, a tribe in Guyana has been compiling evidence that loggers were illegally tearing down their forests. But nothing has worked as well as their latest effort: a new drone, which they built using a GoPro-donated camera and some string, with YouTube videos as their guide.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99252fae9051d2612cfd55792337679cfb42ac66.jpg"></article>]]></description>
-            <link>http://mashable.com/2016/04/19/guyana-tribe-drone-youtube/#dj7si8m6MiqY</link>
-            <guid isPermaLink="false">b2d0128b-bbde-434c-8d24-1c51907a4465</guid>
-            <pubDate>Wed, 20 Apr 2016 08:11:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
