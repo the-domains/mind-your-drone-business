@@ -4,7 +4,7 @@
         <description><![CDATA[Mind Your Drone Business!]]></description>
         <link>https://thegrid.ai/mind-your-drone-business/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 12:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 09:14:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mind-your-drone-business/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Drone racing is coming to ESPN]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 22 Apr 2016 10:46:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Watch a parachute rescue a drone in free fall]]></title>
+            <description><![CDATA[<article><h1>Watch a parachute rescue a drone in free fall</h1><p>The technology isn't perfect; a drone won't fall any more slowly than 9.8 feet per second, so the odds are that it'll still take damage. However, the parachute could mean the difference between a total loss and recovering camera footage, and could give bystanders more time to get out of the way.</p><img src="http://o.aolcdn.com/dims5/amp:6c79b1fa10b2ae708a052a399ab7f709628aa624/t:1200,630/q:80/?url=++++http%3A%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fdd66537cfdcd3e48426c91e24bde7a01%2F203791320%2Fparazero-safeair.jpg++%0A"></article>]]></description>
+            <link>http://www.engadget.com/2016/05/09/drone-parachute-in-action/</link>
+            <guid isPermaLink="false">6665904a-7a88-4223-bea1-13be2bc0bc9b</guid>
+            <pubDate>Tue, 10 May 2016 09:14:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New Drone Advocacy Group Launches With Cisco and CNN as Members]]></title>
-            <description><![CDATA[<article><h1>New Drone Advocacy Group Launches With Cisco and CNN as Members</h1><p>There's a new drone advocacy group in Washington, D.C. and Silicon Valley. The Commercial Drone Alliance took off on Tuesday with founding board members including the likes of networking giant Cisco, a drone-centric data crunching startup called Data Wing, and drone startup Measure.</p><img src="https://fortunedotcom.files.wordpress.com/2015/12/drone.jpg?w=1024"></article>]]></description>
+            <description><![CDATA[<article><h1>New Drone Advocacy Group Launches With Cisco and CNN as Members</h1><p>There's a new drone advocacy group in Washington, D.C. and Silicon Valley. The Commercial Drone Alliance took off on Tuesday with founding board members including the likes of networking giant Cisco, a drone-centric data crunching startup called Data Wing, and drone startup Measure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c21d7ca226098b8828d2af475244fed7d871f9b4.jpg"></article>]]></description>
             <link>http://fortune.com/2016/05/03/commercial-drone-alliance-cisco-cnn/</link>
             <guid isPermaLink="false">f967e049-f0ed-4924-b0d2-da1addb72024</guid>
             <pubDate>Wed, 04 May 2016 12:47:26 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.informationweek.com/government/faa-approves-first-commercial-nighttime-drone-flights/d/d-id/1325222</link>
             <guid isPermaLink="false">aee1ef09-c5ee-4ead-90e7-fe4c183ecac4</guid>
             <pubDate>Fri, 22 Apr 2016 10:46:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enjoy This Drone Propeller Hitting a Slab of Pork at 33 Miles Per Hour]]></title>
-            <description><![CDATA[<article><h1>Enjoy This Drone Propeller Hitting a Slab of Pork at 33 Miles Per Hour</h1><p>How dangerous will our drone-filled future be? A new video from Aalborg University gives us a dark preview. The slow motion video shows a commercial drone propeller as it is hurled down a track towards a slab of pork, decimating it upon impact.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9d71ba95553ed394c877f330527d55ff0a36885.gif"></article>]]></description>
-            <link>http://motherboard.vice.com/read/drone-vs-pork</link>
-            <guid isPermaLink="false">2bfccf31-6eb2-4253-9f5d-4f277e3b0c06</guid>
-            <pubDate>Wed, 20 Apr 2016 15:22:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
